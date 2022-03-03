@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/jrn03/Graph-Visualization/static/css/main.1fe068e8.css",
-    "main.js": "/jrn03/Graph-Visualization/static/js/main.b23e75f7.js",
-    "static/js/787.4285c99e.chunk.js": "/jrn03/Graph-Visualization/static/js/787.4285c99e.chunk.js",
-    "index.html": "/jrn03/Graph-Visualization/index.html",
-    "main.1fe068e8.css.map": "/jrn03/Graph-Visualization/static/css/main.1fe068e8.css.map",
-    "main.b23e75f7.js.map": "/jrn03/Graph-Visualization/static/js/main.b23e75f7.js.map",
-    "787.4285c99e.chunk.js.map": "/jrn03/Graph-Visualization/static/js/787.4285c99e.chunk.js.map"
+    "main.css": "/Graph-Visualization/static/css/main.1fe068e8.css",
+    "main.js": "/Graph-Visualization/static/js/main.9d14a449.js",
+    "static/js/787.4285c99e.chunk.js": "/Graph-Visualization/static/js/787.4285c99e.chunk.js",
+    "index.html": "/Graph-Visualization/index.html",
+    "main.1fe068e8.css.map": "/Graph-Visualization/static/css/main.1fe068e8.css.map",
+    "main.9d14a449.js.map": "/Graph-Visualization/static/js/main.9d14a449.js.map",
+    "787.4285c99e.chunk.js.map": "/Graph-Visualization/static/js/787.4285c99e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1fe068e8.css",
-    "static/js/main.b23e75f7.js"
+    "static/js/main.9d14a449.js"
   ]
 }
